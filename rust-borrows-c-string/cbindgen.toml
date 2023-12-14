@@ -1,0 +1,2 @@
+namespace = "rust_borrows_c_string"
+cpp_compat = true
